@@ -7,15 +7,14 @@ Yesterday, I found a laptop(R400) in our cabinet. First look, I will throw it aw
 
 ## What R400 Looks Like?
 
-<img src="/Volumes/2Tmac/github/mine/tameR400/images/forward.jpeg" style="zoom: 25%;" />
+![](https://github.com/i0Ek3/tameR400/blob/main/images/forward.jpeg)
 
+You can find the other pictures under the [images](https://github.com/i0Ek3/tameR400/tree/main/images).
 
-
-You can find the other pictures under the images.
 
 ## Configuration
 
-![](![lubuntu-config](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/lubuntu-config.2442lxqyfe3k.webp))
+![](https://github.com/i0Ek3/tameR400/blob/main/images/lubuntu-config.jpeg)
 
 
 ## Issues
@@ -32,7 +31,7 @@ You can find the other pictures under the images.
 
 Just a simple way: add or remove something, like memory, disk etc.
 
-After I disassemble the R400, I found there are two slots we can use, and one is 1G RAM meomory, another is empty. Nothing can be found about M.2 slot or mSATA interface.
+After I disassemble the R400, I found there are two slots we can use, and one is 1G RAM meomory, another is empty. Nothing can be found about M.2 slot or mSATA interface. So we could remove DVD and replace with SSD in there.
 
 
 
@@ -50,7 +49,7 @@ Second, setting BIOS configs.
 
 I just tried so many Linux distros, finnally I choose Lubuntu 18.04 i386/i686 as default system cause of low memory and performance consideration.
 
-If you like, the other Linux distros also will be fine.
+If you like, the other Linux distros also be fine.
 
 
 
